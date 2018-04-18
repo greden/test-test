@@ -70,4 +70,4 @@ RUN rm -rf /${LUA_NGINX_MODULE}
 
 # This is the default CMD used by nginx:1.9.2 image
 CMD ["nginx", "-g", "daemon off;"]
-
+#tets
